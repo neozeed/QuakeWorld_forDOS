@@ -1,0 +1,83 @@
+Added packfile ./id1/pak0.pak (339 files)
+FindFile: can't find gfx/pop.lmp
+Playing shareware version.
+PackFile: ./id1/pak0.pak : gfx.wad
+Console initialized.
+Exe: 18:33:01 Aug 26 2009
+ 8.0 megabyte heap
+PackFile: ./id1/pak0.pak : gfx/palette.lmp
+PackFile: ./id1/pak0.pak : gfx/colormap.lmp
+600k surface cache
+========Quake Initialized=========
+PackFile: ./id1/pak0.pak : quake.rc
+execing quake.rc
+PackFile: ./id1/pak0.pak : gfx/conback.lmp
+PackFile: ./id1/pak0.pak : default.cfg
+execing default.cfg
+Unknown command "volume"
+FindFile: /tmp./id1/config.cfg
+execing config.cfg
+FindFile: can't find autoexec.cfg
+couldn't exec autoexec.cfg
+3 demo(s) in loop
+Playing demo from demo1.dem.
+PackFile: ./id1/pak0.pak : demo1.dem
+
+
+
+
+the Necropolis
+PackFile: ./id1/pak0.pak : maps/e1m3.bsp
+PackFile: ./id1/pak0.pak : progs/player.mdl
+PackFile: ./id1/pak0.pak : progs/eyes.mdl
+PackFile: ./id1/pak0.pak : progs/h_player.mdl
+PackFile: ./id1/pak0.pak : progs/gib1.mdl
+PackFile: ./id1/pak0.pak : progs/gib2.mdl
+PackFile: ./id1/pak0.pak : progs/gib3.mdl
+PackFile: ./id1/pak0.pak : progs/s_bubble.spr
+PackFile: ./id1/pak0.pak : progs/s_explod.spr
+PackFile: ./id1/pak0.pak : progs/v_axe.mdl
+PackFile: ./id1/pak0.pak : progs/v_shot.mdl
+PackFile: ./id1/pak0.pak : progs/v_nail.mdl
+PackFile: ./id1/pak0.pak : progs/v_rock.mdl
+PackFile: ./id1/pak0.pak : progs/v_shot2.mdl
+PackFile: ./id1/pak0.pak : progs/v_nail2.mdl
+PackFile: ./id1/pak0.pak : progs/v_rock2.mdl
+PackFile: ./id1/pak0.pak : progs/bolt.mdl
+PackFile: ./id1/pak0.pak : progs/bolt2.mdl
+PackFile: ./id1/pak0.pak : progs/bolt3.mdl
+PackFile: ./id1/pak0.pak : progs/lavaball.mdl
+PackFile: ./id1/pak0.pak : progs/missile.mdl
+PackFile: ./id1/pak0.pak : progs/grenade.mdl
+PackFile: ./id1/pak0.pak : progs/spike.mdl
+PackFile: ./id1/pak0.pak : progs/s_spike.mdl
+PackFile: ./id1/pak0.pak : progs/backpack.mdl
+PackFile: ./id1/pak0.pak : progs/zom_gib.mdl
+PackFile: ./id1/pak0.pak : progs/v_light.mdl
+PackFile: ./id1/pak0.pak : progs/flame2.mdl
+PackFile: ./id1/pak0.pak : progs/flame.mdl
+PackFile: ./id1/pak0.pak : progs/zombie.mdl
+PackFile: ./id1/pak0.pak : progs/h_zombie.mdl
+PackFile: ./id1/pak0.pak : progs/w_g_key.mdl
+PackFile: ./id1/pak0.pak : progs/ogre.mdl
+PackFile: ./id1/pak0.pak : progs/h_ogre.mdl
+PackFile: ./id1/pak0.pak : progs/wizard.mdl
+PackFile: ./id1/pak0.pak : progs/h_wizard.mdl
+PackFile: ./id1/pak0.pak : progs/w_spike.mdl
+PackFile: ./id1/pak0.pak : progs/demon.mdl
+PackFile: ./id1/pak0.pak : progs/h_demon.mdl
+PackFile: ./id1/pak0.pak : progs/g_nail.mdl
+PackFile: ./id1/pak0.pak : maps/b_shell1.bsp
+PackFile: ./id1/pak0.pak : maps/b_bh25.bsp
+PackFile: ./id1/pak0.pak : maps/b_bh10.bsp
+PackFile: ./id1/pak0.pak : progs/g_shot.mdl
+PackFile: ./id1/pak0.pak : maps/b_shell0.bsp
+PackFile: ./id1/pak0.pak : maps/b_rock0.bsp
+PackFile: ./id1/pak0.pak : maps/b_nail1.bsp
+PackFile: ./id1/pak0.pak : progs/armor.mdl
+PackFile: ./id1/pak0.pak : maps/b_nail0.bsp
+PackFile: ./id1/pak0.pak : maps/b_rock1.bsp
+PackFile: ./id1/pak0.pak : progs/g_rock.mdl
+PackFile: ./id1/pak0.pak : progs/invisibl.mdl
+You got the shells
+You got the Grenade Launcher
